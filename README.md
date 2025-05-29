@@ -1,4 +1,4 @@
-## PRODIGY_ML_01
+## HOUSE PRICE PREDICTION
 This project uses a Random Forest Regressor to predict house prices based on various features such as the number of bedrooms, bathrooms, area, floors, garage, condition, location, and year built.
 
 ## Dataset
